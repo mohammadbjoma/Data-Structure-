@@ -89,3 +89,15 @@ class Stack {
         System.out.println("Search 20: " + stack.search(20));
     }
 }
+const stack = new Stack();
+
+stack.push(10);
+stack.push(20);
+stack.push(30);
+
+stack.traverse();
+console.log("Peek:", stack.peek());
+console.log("Pop:", stack.pop());
+stack.traverse();
+console.log("Count:", stack.count());
+console.log("Search 20:", stack.search(20));
