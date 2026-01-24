@@ -42,3 +42,45 @@ Data-Structure-/
 │ ├── (implementations here)
 │
 └── README.md
+
+---
+
+## ✅ Current Data Structures
+
+> (These are examples of what this repo is intended to contain)
+
+### Linear Data Structures
+- Array (custom / manual operations)
+- Singly Linked List
+- Stack (array-based / linked-list based)
+- Queue (simple queue)
+- Circular Queue
+- Deque (Double-ended Queue)
+
+### Non-Linear Data Structures
+- Binary Tree
+- Binary Search Tree (BST)
+- Graph (Adjacency List / Adjacency Matrix)
+- Basic Tree Traversals (Preorder / Inorder / Postorder)
+
+---
+
+
+## 💻 Languages & Tools
+
+This repo may contain implementations in:
+- **Java**
+- **JavaScript**
+- **Python**
+
+---
+
+## 🚀 How to Run
+
+Because this repository contains multiple languages, run each file depending on its language.
+
+### Java
+```bash
+javac FileName.java
+java FileName
+
